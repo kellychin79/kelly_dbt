@@ -2,7 +2,7 @@
 version: 2
 
 models:
-  - name: my_first_dbt_model
+  - name: customer_orders_pending
     description: "A starter dbt model"
     columns:
       - name: id
